@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4852a19ac7337346b7594cd5074524b, type: 3}
+  m_Name: RuneTidalSlashAbility
+  m_EditorClassIdentifier: 
+  TidalSlash: {fileID: 8146691541141755153, guid: 4a433fce28111b74ca871ce7f198da8c, type: 3}
+  tidalSlashChance: 0.1
+  tidalSlashDamage: 10
+  tidalSlashDuration: 0.5
+  tidalSlashSpeed: 10
+  tidalSlashForce: 5

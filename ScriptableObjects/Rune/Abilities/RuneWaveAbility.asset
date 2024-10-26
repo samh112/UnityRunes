@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c703a12367e9a5f4084ff7a2a6b135c2, type: 3}
+  m_Name: RuneWaveAbility
+  m_EditorClassIdentifier: 
+  wave: {fileID: 8846518834962716332, guid: dabcfa38c5338244196d063a17c2883d, type: 3}
+  waveDuration: 3
+  waveSpeed: 6

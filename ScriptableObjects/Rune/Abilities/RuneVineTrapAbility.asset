@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e3b16f28be4a254490cd13c607b07ef, type: 3}
+  m_Name: RuneVineTrapAbility
+  m_EditorClassIdentifier: 
+  vineTrap: {fileID: 6543431628499448487, guid: b1a7a8d3cc1c14d4da7f3f674c2b43ec, type: 3}
+  radius: 2
+  damage: 10
+  duration: 5
+  coolDown: 15

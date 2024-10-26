@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48ebba58ce287494ea94e8309865c032, type: 3}
+  m_Name: RuneTornadoAbility
+  m_EditorClassIdentifier: 
+  tornado: {fileID: 1017713904785890717, guid: dfba041b00454864d81d6cb00017032d, type: 3}
+  tornadoDamage: 5
+  tornadoDuration: 5
+  tornadoSpeed: 4
+  tornadoPullStrength: 100

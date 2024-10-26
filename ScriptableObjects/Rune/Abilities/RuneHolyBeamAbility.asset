@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6b3eee358dfe0419f8a9810bb96224, type: 3}
+  m_Name: RuneHolyBeamAbility
+  m_EditorClassIdentifier: 
+  HolyBeam: {fileID: 851424911011079776, guid: 1633e8406c17b1042bd00034382ca5f9, type: 3}
+  duration: 2
+  initialDamage: 30
+  tickDamage: 0.5
+  range: 20
