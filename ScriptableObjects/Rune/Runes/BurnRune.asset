@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3756551c7c70aef4bafb2ae64f324a52, type: 3}
+  m_Name: BurnRune
+  m_EditorClassIdentifier: 
+  runeName: Burn Rune
+  runeSprite: {fileID: 4293448403118370407, guid: 3b601951e8869c944b411c19a2c1dc75, type: 3}
+  abilityDescription: Burns enemies hit by basic attack
+  runeAbility: {fileID: 11400000, guid: b369045da2e782c47986fa9ef5f4eab5, type: 2}
+  element: fire
+  icon: {fileID: 2893822995831461540, guid: a693f07ee37f29d42b4c5901346b7b9f, type: 3}
+  isAttackRune: 1
+  isPassiveRune: 0
+  isActiveRune: 0
