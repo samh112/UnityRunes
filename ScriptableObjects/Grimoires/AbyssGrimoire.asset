@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d564c3196f62cbd48a3c2aef5a4c2375, type: 3}
+  m_Name: AbyssGrimoire
+  m_EditorClassIdentifier: 
+  elementName: abyss
+  grimoireIcon: {fileID: 7603365009863297273, guid: efcefcbc78e3bee408d892b1d4db08c3, type: 3}
+  isUnlocked: 0
